@@ -19,9 +19,11 @@ Please join the channel `#zlocal-us-nc-triangle`
 # Example Pictures
 
 Prototype for 6-hole design
+
 ![example_durham.jpg](../images/example_durham.jpg)
 
 Delivered to UNC hospitals
+
 ![example_durham.jpg](../images/face-shields.jpeg)
 
 [RETURN TO MAIN SITE](../README.md)
