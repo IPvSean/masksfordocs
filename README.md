@@ -12,6 +12,8 @@ We are 3D-printing face shields to provide healthcare professionals with the pro
 
 Download the files and sign up so we can coordinate distribution!
 
+[Print Here](docs/print.md)
+
 
 </td>
 <td>
@@ -20,7 +22,8 @@ Download the files and sign up so we can coordinate distribution!
 
 Do you have the time and willingness to help out? Tell us your skills!
 
-
+<b><a href="https://forms.gle/CwF7hVyBP1fBB49A9">Volunteer Here</a>
+Also remember to join us on Slack, link is below->
 
 </td>
 <td>
@@ -44,16 +47,19 @@ Every dollar helps protect our doctors, nurses, and everyone on the front lines!
 
 </table>
 
+# Slack chat room
+
+We live and work in the Raleigh - Durham - Chapel Hill metro area just like you.  Please join us on Slack here to chat with us: [Join Slack](https://join.slack.com/t/masksfordocs/shared_invite/zt-dcwc740h-jZtGkDZl8NMGUKzgRXX56g)
+
+Please join the channel `#zlocal-us-nc-triangle`
+
 # Background
 
 As hospitals and front line workers run out of **PPE** (personal protective gear), people around the world are creating solutions to save lives.
 
 We are a bunch of nerdy engineers in the Raleigh - Durham - Chapel Hill metro area collectivley known as "the triangle", and we are 3D printing face shields to help protect workers from airborne splatter.  
 
-I highly recommend it if you are unfamiliar with 3D printers, face shields, and what we are trying to do to check out this YouTube video: https://youtu.be/sbEj7M3aZIg  I promise it is worth the watch.
+I highly recommend it if you are unfamiliar with 3D printers, face shields, and what we are trying to do to check out this YouTube video: [https://youtu.be/sbEj7M3aZIg](https://youtu.be/sbEj7M3aZIg)  I promise it is worth the watch.
 
-# Slack chat room
-
-We live and work in the Raleigh - Durham - Chapel Hill metro area just like you.  Please join us on Slack here to chat with us: [Join Slack](https://join.slack.com/t/masksfordocs/shared_invite/zt-dcwc740h-jZtGkDZl8NMGUKzgRXX56g)
-
-Please join the channel `#zlocal-us-nc-triangle`
+Here is an example of my (Sean's) sister up in the DC metro area using a 3D printed mask in their community->
+![mask example](images/callan_mask.jpg)

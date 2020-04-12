@@ -22,3 +22,5 @@ sean.cavanaugh@masksfordocs.com
 As you can see by one of the volunteers Alex Kretzschmar's blog [https://blog.ktz.me/3d-printed-covid-19-face-shields/](https://blog.ktz.me/3d-printed-covid-19-face-shields/) we can produce face shields for under a dollar each.  That means if you donated $5 you are potentially creating 5 face shields!
 
 I will divide up money to volunteers that provide me a receipt for their filament orders.  Many volunteers are not asking for any money at all because their own friends and family have already funded them!  Any additional money that we have over and beyond the cost of filament will be donated to local area non-profits after we beat COVID-19.  If you have an idea for a non-profit email me above.
+
+[RETURN TO MAIN SITE](../README.md)
