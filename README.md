@@ -1,3 +1,5 @@
+<div id="logo"><img src="images/covid_logo.png" width="500px"></div>
+
 # Volunteers Fighting COVID-19 in the Triangle, NC
 
 Face shields and PPE that protect doctors and nurses from COVID-19 airborne splatter are in short supply.
@@ -34,10 +36,6 @@ Every dollar helps protect our doctors, nurses, and everyone on the front lines!
 <div id="button"><b><a href="docs/fund.html">Fund</a></b></div>
 </div>
 </div>
-
-<center><img src="images/covid_logo.png" width="500px" border="0"></center>
-
-
 
 # Slack chat room
 
