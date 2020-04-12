@@ -44,7 +44,7 @@ Every dollar helps protect our doctors, nurses, and everyone on the front lines!
 
 </table>
 
-<center><img src="images/covid-logo.png" width="500px" border="0"></center>
+<center><img src="images/covid_logo.png" width="500px" border="0"></center>
 
 
 
