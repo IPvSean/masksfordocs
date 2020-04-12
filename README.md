@@ -1,5 +1,3 @@
-<div id="logo"><img src="images/covid_logo.png" width="500px"></div>
-
 # Volunteers Fighting COVID-19 in the Triangle, NC
 
 Face shields and PPE that protect doctors and nurses from COVID-19 airborne splatter are in short supply.
