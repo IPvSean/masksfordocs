@@ -18,7 +18,7 @@ Have a 3D Printer? Download the files and sign up so we can coordinate distribut
 
 <h2>Volunteer</h2>
 
-Do you have the time and willingness to help out? Tell us your skills!
+Do you have the time and willingness to help out?
 
 <div id="button"><b><a href="https://forms.gle/CwF7hVyBP1fBB49A9">Volunteer Here</a></b></div><br>
 Also remember to join us on Slack, link is below!
