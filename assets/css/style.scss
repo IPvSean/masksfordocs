@@ -43,3 +43,10 @@ img {
   float: left;
   width: 23%;
 }
+
+@media (max-width : 400px) {
+    #section {
+        float: none;
+        width: auto;
+    }
+}
