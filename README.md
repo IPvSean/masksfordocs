@@ -21,7 +21,6 @@ Have a 3D Printer? Download the files and sign up so we can coordinate distribut
 Do you have the time and willingness to help out?
 
 <div id="button"><b><a href="https://forms.gle/CwF7hVyBP1fBB49A9">Volunteer Here</a></b></div><br>
-Also remember to join us on Slack, link is below!
 
 </td>
 <td>
@@ -37,7 +36,7 @@ We are actively distributing shields to frontline workers!
 
 <h2>Fund</h2>
 
-Fund Protective Gear! Every dollar helps protect our doctors, nurses, and everyone on the front lines!
+Every dollar helps protect our doctors, nurses, and everyone on the front lines!
 
 <div id="button"><b><a href="docs/fund.html">Fund</a></b></div>
 </td>
