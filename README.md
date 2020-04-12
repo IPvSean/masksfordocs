@@ -4,6 +4,8 @@ Face shields and PPE that protect doctors and nurses from COVID-19 airborne spla
 
 We are 3D-printing face shields to provide healthcare professionals with the protective gear that they need to stay safe!
 
+<center><img src="images/covid-logo.png" width="500px"></center>
+
 
 <table>
 <tr>
