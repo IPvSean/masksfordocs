@@ -13,9 +13,9 @@ This Triangle area website and group are **not** a registered non-profit and I c
 
 - Buy filament and deliver and email me [sean.cavanaugh@masksfordocs.com](sean.cavanaugh@masksfordocs.com).  I can coordinate with where it needs to go.
 
-   -[Prusament PETG Orange for PPE 1kg
+   - [Prusament PETG Orange for PPE 1kg
 ](https://shop.prusa3d.com/en/prusament/1243-prusament-petg-orange-for-ppe-1kg.html)
-sean.cavanaugh@masksfordocs.com
+
 
 # More information
 
