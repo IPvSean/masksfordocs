@@ -11,7 +11,7 @@ We are 3D-printing face shields to provide healthcare professionals with the pro
 
 Have a 3D Printer? Download the files and sign up so we can coordinate distribution!
 
-<b><a href="docs/print.html">Print Here</a></b>
+<div id="button"><b><a href="docs/print.html">Print Here</a></b></div>
 
 </td>
 <td>
@@ -20,7 +20,7 @@ Have a 3D Printer? Download the files and sign up so we can coordinate distribut
 
 Do you have the time and willingness to help out? Tell us your skills!
 
-<b><a href="https://forms.gle/CwF7hVyBP1fBB49A9">Volunteer Here</a></b><br>
+<div id="button"><b><a href="https://forms.gle/CwF7hVyBP1fBB49A9">Volunteer Here</a></b></div><br>
 Also remember to join us on Slack, link is below!
 
 </td>
@@ -30,7 +30,7 @@ Also remember to join us on Slack, link is below!
 
 We are actively distributing shields to frontline workers!
 
-<b><a href="https://forms.gle/ZrBaD8XHApYGEsFa6">Request PPE</a></b>
+<div id="button"><b><a href="https://forms.gle/ZrBaD8XHApYGEsFa6">Request PPE</a></b></div>
 
 </td>
 <td>
@@ -39,7 +39,7 @@ We are actively distributing shields to frontline workers!
 
 Fund Protective Gear! Every dollar helps protect our doctors, nurses, and everyone on the front lines!
 
-<b><a href="docs/fund.html">FUND</a></b>
+<div id="button"><b><a href="docs/fund.html">Fund</a></b></div>
 </td>
 </tr>
 
