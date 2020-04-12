@@ -4,9 +4,9 @@ Right now we are concentrating on face shields since we do not have the capabili
 
 Specifically our group is currently concentrating on printing the 3DVerkstan North America 6-hole design.  I am working with some folks in Durham that can make the transparent shield to attach to this visor.  
 
-https://3dverkstan.se/protective-visor/protective-visor-versions/
+[https://3dverkstan.se/protective-visor/protective-visor-versions/](https://3dverkstan.se/protective-visor/protective-visor-versions/)
 
-Download is here: https://www.youmagine.com/designs/protective-visor-by-3dverkstan
+Download is here: [https://www.youmagine.com/designs/protective-visor-by-3dverkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)
 
 Please report problems to [sean.cavanaugh@masksfordocs.com](mailto:sean.cavanaugh@masksfordocs.com)
 
