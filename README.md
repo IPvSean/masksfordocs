@@ -29,6 +29,8 @@ Do you have the time and willingness to help out? Tell us your skills!
 
 We are actively distributing shields to frontline workers!
 
+<b><a href="https://forms.gle/ZrBaD8XHApYGEsFa6">Request PPE</a><b>
+
 </td>
 <td>
 
@@ -36,8 +38,22 @@ We are actively distributing shields to frontline workers!
 
 Every dollar helps protect our doctors, nurses, and everyone on the front lines!
 
-<b><a href="docs/fund.md>FUND</a></b>
+<b><a href="docs/fund.md">FUND</a></b>
 </td>
   </tr>
 
 </table>
+
+# Background
+
+As hospitals and front line workers run out of **PPE** (personal protective gear), people around the world are creating solutions to save lives.
+
+We are a bunch of nerdy engineers in the Raleigh - Durham - Chapel Hill metro area collectivley known as "the triangle", and we are 3D printing face shields to help protect workers from airborne splatter.  
+
+I highly recommend it if you are unfamiliar with 3D printers, face shields, and what we are trying to do to check out this YouTube video: https://youtu.be/sbEj7M3aZIg  I promise it is worth the watch.
+
+# Slack chat room
+
+We live and work in the Raleigh - Durham - Chapel Hill metro area just like you.  Please join us on Slack here to chat with us: [Join Slack](https://join.slack.com/t/masksfordocs/shared_invite/zt-dcwc740h-jZtGkDZl8NMGUKzgRXX56g)
+
+Please join the channel `#zlocal-us-nc-triangle`
