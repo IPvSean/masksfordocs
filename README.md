@@ -9,7 +9,7 @@ We are 3D-printing face shields to provide healthcare professionals with the pro
 <td>
 <h2>Print</h2>
 
-Have a 3D Printer? Download the files and sign up so we can coordinate distribution! <br><br>
+Have a 3D Printer? Download the files and sign up so we can coordinate distribution! <br>
 
 <div id="button"><b><a href="docs/print.html">Print Here</a></b></div>
 
