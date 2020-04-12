@@ -2,19 +2,19 @@
 
 Face shields and PPE that protect doctors and nurses from COVID-19 airborne splatter are in short supply.
 
-We are 3D-printing face shields to provide healtdcare professionals with the protective gear that they need to stay safe!
+We are 3D-printing face shields to provide healthcare professionals with the protective gear that they need to stay safe!
 
 
 <table>
-  <tr>
-    <td>
+<tr>
+<td>
 <h2>Have a 3D Printer?</h2>
 
 Download the files and sign up so we can coordinate distribution!
 
 
 </td>
-    <td>
+<td>
 
 <h2>Volunteer!</h2>
 
@@ -29,7 +29,7 @@ Do you have the time and willingness to help out? Tell us your skills!
 
 We are actively distributing shields to frontline workers!
 
-<b><a href="https://forms.gle/ZrBaD8XHApYGEsFa6">Request PPE</a><b>
+<b><a href="https://forms.gle/ZrBaD8XHApYGEsFa6">Request PPE</a></b>
 
 </td>
 <td>
@@ -40,7 +40,7 @@ Every dollar helps protect our doctors, nurses, and everyone on the front lines!
 
 <b><a href="docs/fund.md">FUND</a></b>
 </td>
-  </tr>
+</tr>
 
 </table>
 
