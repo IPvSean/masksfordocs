@@ -55,3 +55,19 @@ I highly recommend it if you are unfamiliar with 3D printers, face shields, and 
 
 Here is an example of my (Sean's) sister up in the DC metro area using a 3D printed mask in their community->
 ![mask example](images/callan_mask.jpg)
+
+# Spread the word
+
+Use any of the below hash tags and link to this website.
+
+`#RaleighFightingCOVID`
+
+`#DurhamFightingCOVID`
+
+`#ChapelHillFightingCOVID`
+
+`TriangleFightingCOVID`
+
+Here is an example Tweet I sent out:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Can you create home made face masks? or do you have a 3D printer? Or maybe you just have a car and some time to help us deliver supplies? Check out-&gt;<a href="https://t.co/uS7UX2fsPL">https://t.co/uS7UX2fsPL</a><a href="https://twitter.com/hashtag/RaleighFightingCOVID?src=hash&amp;ref_src=twsrc%5Etfw">#RaleighFightingCOVID</a><a href="https://twitter.com/hashtag/DurhamFightingCOVID?src=hash&amp;ref_src=twsrc%5Etfw">#DurhamFightingCOVID</a><a href="https://twitter.com/hashtag/ChapelHillFightingCOVID?src=hash&amp;ref_src=twsrc%5Etfw">#ChapelHillFightingCOVID</a><a href="https://twitter.com/hashtag/TriangleFightingCovid?src=hash&amp;ref_src=twsrc%5Etfw">#TriangleFightingCovid</a></p>&mdash; Sean Cavanaugh (@ChapelHillSean) <a href="https://twitter.com/ChapelHillSean/status/1249478755938185217?ref_src=twsrc%5Etfw">April 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
