@@ -22,7 +22,7 @@ Do you have the time and willingness to help out? <br><br>
 <div id="section">
 <h2>Request</h2>
 
-We are actively distributing shields to frontline workers! <br>
+We are actively distributing shields to frontline workers! <br><br>
 
 <div id="button"><b><a href="https://forms.gle/ZrBaD8XHApYGEsFa6">Request PPE</a></b></div>
 </div>
