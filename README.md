@@ -12,8 +12,7 @@ We are 3D-printing face shields to provide healthcare professionals with the pro
 
 Download the files and sign up so we can coordinate distribution!
 
-[Print Here](docs/print.md)
-
+<b><a href="docs/print.md">Print Here</a></b>
 
 </td>
 <td>
@@ -22,8 +21,8 @@ Download the files and sign up so we can coordinate distribution!
 
 Do you have the time and willingness to help out? Tell us your skills!
 
-<b><a href="https://forms.gle/CwF7hVyBP1fBB49A9">Volunteer Here</a>
-Also remember to join us on Slack, link is below->
+<b><a href="https://forms.gle/CwF7hVyBP1fBB49A9">Volunteer Here</a></b>
+Also remember to join us on Slack, link is below!
 
 </td>
 <td>
