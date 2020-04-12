@@ -66,7 +66,7 @@ Use any of the below hash tags and link to this website.
 
 `#ChapelHillFightingCOVID`
 
-`TriangleFightingCOVID`
+`#TriangleFightingCOVID`
 
 Here is an example Tweet I sent out:
 
