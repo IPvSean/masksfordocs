@@ -40,7 +40,7 @@ Every dollar helps protect our doctors, nurses, and everyone on the front lines!
 
 </div>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRrBpH2KBm0QrCG-hXuxb_f4P0aFrn4uaQ3M8HzED8tTVPotBIQFkTmY5YsW7-23IDBoNOUcIXQUmI/pubchart?oid=1003224157&amp;format=interactive"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRrBpH2KBm0QrCG-hXuxb_f4P0aFrn4uaQ3M8HzED8tTVPotBIQFkTmY5YsW7-23IDBoNOUcIXQUmI/pubhtml?gid=1671968870&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 # Slack chat room
 
