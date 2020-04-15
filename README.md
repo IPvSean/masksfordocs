@@ -40,6 +40,8 @@ Every dollar helps protect our doctors, nurses, and everyone on the front lines!
 
 </div>
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRrBpH2KBm0QrCG-hXuxb_f4P0aFrn4uaQ3M8HzED8tTVPotBIQFkTmY5YsW7-23IDBoNOUcIXQUmI/pubchart?oid=1003224157&amp;format=interactive"></iframe>
+
 # Slack chat room
 
 We live and work in the Raleigh - Durham - Chapel Hill metro area just like you.  Please join us on Slack here to chat with us: [Join Slack](https://join.slack.com/t/masksfordocs/shared_invite/zt-dcwc740h-jZtGkDZl8NMGUKzgRXX56g)
@@ -74,4 +76,4 @@ Here is an example Tweet I sent out:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Can you create home made face masks? or do you have a 3D printer? Or maybe you just have a car and some time to help us deliver supplies? Check out-&gt;<a href="https://t.co/uS7UX2fsPL">https://t.co/uS7UX2fsPL</a><a href="https://twitter.com/hashtag/RaleighFightingCOVID?src=hash&amp;ref_src=twsrc%5Etfw">#RaleighFightingCOVID</a><a href="https://twitter.com/hashtag/DurhamFightingCOVID?src=hash&amp;ref_src=twsrc%5Etfw">#DurhamFightingCOVID</a><a href="https://twitter.com/hashtag/ChapelHillFightingCOVID?src=hash&amp;ref_src=twsrc%5Etfw">#ChapelHillFightingCOVID</a><a href="https://twitter.com/hashtag/TriangleFightingCovid?src=hash&amp;ref_src=twsrc%5Etfw">#TriangleFightingCovid</a></p>&mdash; Sean Cavanaugh (@ChapelHillSean) <a href="https://twitter.com/ChapelHillSean/status/1249478755938185217?ref_src=twsrc%5Etfw">April 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Also check out this YouTube video that Ed Ricker made!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e53OFCiiXZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="253" src="https://www.youtube.com/embed/e53OFCiiXZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
