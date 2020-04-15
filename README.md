@@ -5,6 +5,7 @@ Face shields and PPE that protect doctors and nurses from COVID-19 airborne spla
 We are 3D-printing face shields to provide healthcare professionals with the protective gear that they need to stay safe!
 
 <div id="menu">
+
 <div id="section">
 <h2>Print</h2>
 
@@ -12,6 +13,7 @@ Have a 3D Printer? Download the files and sign up so we can coordinate distribut
 
 <div id="button"><b><a href="docs/print.html">Print Here</a></b></div>
 </div>
+
 <div id="section">
 <h2>Volunteer</h2>
 
@@ -19,6 +21,7 @@ Do you have the time and willingness to help out? <br><br>
 
 <div id="button"><b><a href="https://forms.gle/CwF7hVyBP1fBB49A9">Volunteer Here</a></b></div>
 </div>
+
 <div id="section">
 <h2>Request</h2>
 
@@ -26,6 +29,7 @@ We are actively distributing shields to frontline workers! <br><br>
 
 <div id="button"><b><a href="https://forms.gle/ZrBaD8XHApYGEsFa6">Request PPE</a></b></div>
 </div>
+
 <div id="section">
 <h2>Fund</h2>
 
@@ -33,6 +37,7 @@ Every dollar helps protect our doctors, nurses, and everyone on the front lines!
 
 <div id="button"><b><a href="docs/fund.html">Fund</a></b></div>
 </div>
+
 </div>
 
 # Slack chat room
@@ -67,3 +72,6 @@ Use any of the below hash tags and link to this website.
 Here is an example Tweet I sent out:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Can you create home made face masks? or do you have a 3D printer? Or maybe you just have a car and some time to help us deliver supplies? Check out-&gt;<a href="https://t.co/uS7UX2fsPL">https://t.co/uS7UX2fsPL</a><a href="https://twitter.com/hashtag/RaleighFightingCOVID?src=hash&amp;ref_src=twsrc%5Etfw">#RaleighFightingCOVID</a><a href="https://twitter.com/hashtag/DurhamFightingCOVID?src=hash&amp;ref_src=twsrc%5Etfw">#DurhamFightingCOVID</a><a href="https://twitter.com/hashtag/ChapelHillFightingCOVID?src=hash&amp;ref_src=twsrc%5Etfw">#ChapelHillFightingCOVID</a><a href="https://twitter.com/hashtag/TriangleFightingCovid?src=hash&amp;ref_src=twsrc%5Etfw">#TriangleFightingCovid</a></p>&mdash; Sean Cavanaugh (@ChapelHillSean) <a href="https://twitter.com/ChapelHillSean/status/1249478755938185217?ref_src=twsrc%5Etfw">April 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Also check out this YouTube video that Ed Ricker made!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e53OFCiiXZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
