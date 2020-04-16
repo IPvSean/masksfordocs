@@ -40,7 +40,7 @@ Every dollar helps protect our doctors, nurses, and everyone on the front lines!
 
 </div>
 
-<iframe width="450" height="253" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRrBpH2KBm0QrCG-hXuxb_f4P0aFrn4uaQ3M8HzED8tTVPotBIQFkTmY5YsW7-23IDBoNOUcIXQUmI/pubhtml?gid=1671968870&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="400" height="253" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRrBpH2KBm0QrCG-hXuxb_f4P0aFrn4uaQ3M8HzED8tTVPotBIQFkTmY5YsW7-23IDBoNOUcIXQUmI/pubhtml?gid=1671968870&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 # Slack chat room
 
@@ -52,12 +52,17 @@ Please join the channel `#zlocal-us-nc-triangle`
 
 As hospitals and front line workers run out of **PPE** (personal protective gear), people around the world are creating solutions to save lives.
 
-We are a bunch of nerdy engineers in the Raleigh - Durham - Chapel Hill metro area collectivley known as "the triangle", and we are 3D printing face shields to help protect workers from airborne splatter.  
+We are a bunch of nerdy engineers in the Raleigh - Durham - Chapel Hill metro area collectively known as "the triangle", and we are 3D printing face shields to help protect workers from airborne splatter.  
 
 I highly recommend it if you are unfamiliar with 3D printers, face shields, and what we are trying to do to check out this YouTube video: [https://youtu.be/sbEj7M3aZIg](https://youtu.be/sbEj7M3aZIg)  I promise it is worth the watch.
 
 Here is an example of my (Sean's) sister up in the DC metro area using a 3D printed mask in their community->
 ![mask example](images/callan_mask.jpg)
+
+# Videos
+
+Check out some videos that volunteers have made to help!  
+<div id="button"><b><a href="docs/howto.html">Videos</a></b></div>
 
 # Spread the word
 
@@ -74,6 +79,3 @@ Use any of the below hash tags and link to this website.
 Here is an example Tweet I sent out:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Can you create home made face masks? or do you have a 3D printer? Or maybe you just have a car and some time to help us deliver supplies? Check out-&gt;<a href="https://t.co/uS7UX2fsPL">https://t.co/uS7UX2fsPL</a><a href="https://twitter.com/hashtag/RaleighFightingCOVID?src=hash&amp;ref_src=twsrc%5Etfw">#RaleighFightingCOVID</a><a href="https://twitter.com/hashtag/DurhamFightingCOVID?src=hash&amp;ref_src=twsrc%5Etfw">#DurhamFightingCOVID</a><a href="https://twitter.com/hashtag/ChapelHillFightingCOVID?src=hash&amp;ref_src=twsrc%5Etfw">#ChapelHillFightingCOVID</a><a href="https://twitter.com/hashtag/TriangleFightingCovid?src=hash&amp;ref_src=twsrc%5Etfw">#TriangleFightingCovid</a></p>&mdash; Sean Cavanaugh (@ChapelHillSean) <a href="https://twitter.com/ChapelHillSean/status/1249478755938185217?ref_src=twsrc%5Etfw">April 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-Also check out this YouTube video that Ed Ricker made!
-<iframe width="450" height="253" src="https://www.youtube.com/embed/e53OFCiiXZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
