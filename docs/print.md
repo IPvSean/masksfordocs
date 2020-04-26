@@ -18,9 +18,18 @@ Please join the channel `#zlocal-us-nc-triangle`
 
 # Example Pictures
 
-Prototype for 6-hole design
+3DVerkstan 6-hole design with transparent plastic that will go up over persons head:
 
 ![example_durham.jpg](../images/example_durham.jpg)
+
+Picture taken from in front:
+![from the front](../images/from_front.jpg)
+
+Picture taken from side:
+![from the front](../images/from_side.jpg)
+
+Holding mask:
+![in my hand](../images/in_hand.jpg)
 
 Delivered to UNC hospitals
 
