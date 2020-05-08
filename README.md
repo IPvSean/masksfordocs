@@ -35,7 +35,7 @@ We are actively distributing shields to frontline workers! <br><br>
 
 Every dollar helps protect our doctors, nurses, and everyone on the front lines! <br>
 
-<div id="button"><b><a href="docs/fund.html">Fund</a></b></div>
+<div id="button"><b><a href="https://local.masksfordocs.com/us-nc-triangle">Fund</a></b></div>
 </div>
 
 </div>
@@ -44,7 +44,7 @@ Every dollar helps protect our doctors, nurses, and everyone on the front lines!
 
 # Slack chat room
 
-We live and work in the Raleigh - Durham - Chapel Hill metro area just like you.  Please join us on Slack here to chat with us: [Join Slack](https://join.slack.com/t/masksfordocs/shared_invite/zt-dcwc740h-jZtGkDZl8NMGUKzgRXX56g)
+We live and work in the Raleigh - Durham - Chapel Hill metro area just like you.  Please join us on Slack here to chat with us: [Join Slack](https://join.slack.com/t/masksfordocs/shared_invite/zt-e8439lwg-tY7rXI1ZwP7TO1jqseVP2A) (link updated May 8th, 2020)
 
 Please join the channel `#zlocal-us-nc-triangle`
 
