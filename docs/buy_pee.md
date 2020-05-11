@@ -4,6 +4,12 @@ We are trying to curate a list of local manufactures and suppliers that are now 
 
 ## Table of Contents
 
+* [Low Quantity](#low-quantity)
+   * [Weaver Street Market](#weaver-street-market)
+* [High Quantity](#high-quantity)
+   * [Gilero](#gilero)
+   * [Sharpeco](#sharpeco)
+
 # Low Quantity
 
 ## Weaver Street Market
@@ -33,7 +39,9 @@ I have already talked to two NC manufactures that can produce various PPE.  The 
 
 ## Gilero
 
-Gilero is producing face shields.  They are based in Pittsboro, NC (Chatham County)
+Website: [https://www.gilero.com/](https://www.gilero.com/)
+
+Gilero is producing face shields.  They have a plant in Pittsboro, NC (Chatham County)
 
 ![gilero shield](../images/gilero_shield.jpg)
 
@@ -43,3 +51,34 @@ Gilero is producing face shields.  They are based in Pittsboro, NC (Chatham Coun
 We can do introductions to Gilero's sales director if you are able to purchase larger quantities, or you can work with us and we can do a group buy option.
 
 I have higher resolution pictures and measurements here: [https://photos.app.goo.gl/SkdmUNiFdrVYxmfP9](https://photos.app.goo.gl/SkdmUNiFdrVYxmfP9
+
+## Sharpeco
+
+Website: [https://sharpeco.net/](https://sharpeco.net/)
+
+Based in Winston Salem, NC they can create and distribute the following PPE:
+
+- cotton masks $3.50
+- face shields $3.50
+- disposable mask (waiting room mask) ~$1 a piece
+- acrylic sheeting for waiting rooms (e.g. like a large sneeze guard)
+
+They are used to doing shipment of 1000 units at a time but will work with smaller orders as they come.
+
+Pictures:
+
+Sneeze Guard:
+
+![sneeze guard](../images/sneezeguard.jpg)
+
+Disposable mask:
+
+![disposable mask](../images/disposable.jpg)
+
+Cloth mask:
+
+![cotton mask](../images/cotton.jpg)
+
+Face Shield
+
+![face shield](../images/sharpeco.jpeg)
