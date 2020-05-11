@@ -58,12 +58,14 @@ Website: [https://sharpeco.net/](https://sharpeco.net/)
 
 Based in Winston Salem, NC they can create and distribute the following PPE:
 
-- cotton masks $3.50
-- face shields $3.50
+- cotton masks $3.50 per mask
+- face shields $3.50 per shield
 - disposable mask (waiting room mask) ~$1 a piece
 - acrylic sheeting for waiting rooms (e.g. like a large sneeze guard)
 
 They are used to doing shipment of 1000 units at a time but will work with smaller orders as they come.
+
+So that would be $3500 for 1000 face shields.  Again we can do a group buy, but if you are a larger practice this is a great option.
 
 Pictures:
 
