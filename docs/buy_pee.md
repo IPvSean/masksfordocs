@@ -50,7 +50,7 @@ Gilero is producing face shields.  They have a plant in Pittsboro, NC (Chatham C
 
 We can do introductions to Gilero's sales director if you are able to purchase larger quantities, or you can work with us and we can do a group buy option.
 
-I have higher resolution pictures and measurements here: [https://photos.app.goo.gl/SkdmUNiFdrVYxmfP9](https://photos.app.goo.gl/SkdmUNiFdrVYxmfP9
+I have higher resolution pictures and measurements here: [https://photos.app.goo.gl/SkdmUNiFdrVYxmfP9](https://photos.app.goo.gl/SkdmUNiFdrVYxmfP9)
 
 ## Sharpeco
 
