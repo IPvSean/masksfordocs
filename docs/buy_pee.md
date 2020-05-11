@@ -6,6 +6,7 @@ We are trying to curate a list of local manufactures and suppliers that are now 
 
 * [Low Quantity](#low-quantity)
    * [Weaver Street Market](#weaver-street-market)
+   * [Topo Distillery](#topo-distillery)
 * [High Quantity](#high-quantity)
    * [Gilero](#gilero)
    * [Sharpeco](#sharpeco)
@@ -32,6 +33,19 @@ Pictures:
 ![masks for sale](../images/masksforsale.jpg)
 ![disposable masks](../images/disposable_mask.jpg)
 ![sanitizer](../images/sanitizer.jpg)
+
+# Topo Distillery
+
+Website: [http://www.topodistillery.com/hand-sanitizer](http://www.topodistillery.com/hand-sanitizer)
+
+Selling hand sanitizer in the following increments:
+
+- 18 oz $16.13
+- 1 gallon $64.50
+- 2.5 gallons $150.00
+- bulk (20 gallons or more)
+
+Use the website link above to order
 
 # High Quantity
 
