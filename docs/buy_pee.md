@@ -56,6 +56,8 @@ I have higher resolution pictures and measurements here: [https://photos.app.goo
 
 Website: [https://sharpeco.net/](https://sharpeco.net/)
 
+![sharpeco shield](../images/sharpeco2.jpeg)
+
 Based in Winston Salem, NC they can create and distribute the following PPE:
 
 - cotton masks $3.50 per mask
