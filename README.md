@@ -42,6 +42,10 @@ Every dollar helps protect our doctors, nurses, and everyone on the front lines!
 
 <iframe width="400" height="253" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRrBpH2KBm0QrCG-hXuxb_f4P0aFrn4uaQ3M8HzED8tTVPotBIQFkTmY5YsW7-23IDBoNOUcIXQUmI/pubhtml?gid=1671968870&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
+# Where can I buy PPE?
+
+So you still have money to purchase PPE but you can't actually source it?  If you do not need donations we are starting to identify North Carolina manufactures that are now online selling PPE.  Check out that [page here](docs/buy_ppe.md).
+
 # Slack chat room
 
 We live and work in the Raleigh - Durham - Chapel Hill metro area just like you.  Please join us on Slack here to chat with us: [Join Slack](https://join.slack.com/t/masksfordocs/shared_invite/zt-e8439lwg-tY7rXI1ZwP7TO1jqseVP2A) (link updated May 8th, 2020)
