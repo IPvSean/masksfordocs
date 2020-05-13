@@ -19,7 +19,7 @@ Have a 3D Printer? Download the files and sign up so we can coordinate distribut
 
 Do you have the time and willingness to help out? <br><br>
 
-<div id="button"><b><a href="https://forms.gle/CwF7hVyBP1fBB49A9">Volunteer Here</a></b></div>
+<div id="button"><b><a href="https://share.hsforms.com/1wEiqrs4DTQGBBQ9z2wBg8Q4dh7j?mfd_chapter_id=us-nc-triangle">Volunteer Here</a></b></div>
 </div>
 
 <div id="section">
@@ -44,7 +44,15 @@ Every dollar helps protect our doctors, nurses, and everyone on the front lines!
 
 # Where can I buy PPE?
 
-So you still have money to purchase PPE but you can't actually source it?  If you do not need donations we are starting to identify North Carolina manufactures that are now online selling PPE.  Check out that [page here](docs/buy_ppe.md).
+So you still have money to purchase PPE but you can't actually source it?  If you do not need donations we are starting to identify North Carolina manufactures that are now online selling PPE.  
+
+<div id="button"><b><a href="docs/buy_ppe.md">Buy PPE</a></b></div>
+
+# Where can I donate PPE?
+
+So you have PPE but you want to donate it?
+
+<div id="button"><b><a href="https://share.hsforms.com/19adMT7wKRNSvxJSYJHOdGw4dh7j?mfd_chapter_id=us-nc-triangle">Donate Supplies</a></b></div>
 
 # Slack chat room
 
