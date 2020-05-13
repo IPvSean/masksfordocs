@@ -51,8 +51,8 @@ Use the website link above to order
 
 # Bright View Technologies
 
-Website:[https://www.brightviewtechnologies.com/]
-Based in Durham, North Carolina.
+Website:[https://www.brightviewtechnologies.com/](https://www.brightviewtechnologies.com/)
+Bright View Technologies is producing face shields. They are based in Durham, North Carolina.
 
 I am putting this under low quantity because they can sell units of 10 via Amazon but they would prefer to sell in increments of 250.  Please put them in contact with your local supplier so that they can do larger orders and drive costs down for everyone.
 
@@ -70,7 +70,6 @@ I have already talked to two NC manufactures that can produce various PPE.  The 
 ## Gilero
 
 Website: [https://www.gilero.com/](https://www.gilero.com/)
-
 Gilero is producing face shields.  They have a plant in Pittsboro, NC (Chatham County)
 
 ![gilero shield](../images/gilero_shield.jpg)
