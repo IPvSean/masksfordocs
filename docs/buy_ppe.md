@@ -7,6 +7,7 @@ We are trying to curate a list of local manufactures and suppliers that are now 
 * [Low Quantity](#low-quantity)
    * [Weaver Street Market](#weaver-street-market)
    * [Topo Distillery](#topo-distillery)
+   * [Bright View Technologies](#bright-view-technologies)
 * [High Quantity](#high-quantity)
    * [Gilero](#gilero)
    * [Sharpeco](#sharpeco)
@@ -37,6 +38,7 @@ Pictures:
 # Topo Distillery
 
 Website: [http://www.topodistillery.com/hand-sanitizer](http://www.topodistillery.com/hand-sanitizer)
+Based in Chapel Hill, NC
 
 Selling hand sanitizer in the following increments:
 
@@ -46,6 +48,20 @@ Selling hand sanitizer in the following increments:
 - bulk (20 gallons or more)
 
 Use the website link above to order
+
+# Bright View Technologies
+
+Website:[https://www.brightviewtechnologies.com/]
+Based in Durham, North Carolina.
+
+I am putting this under low quantity because they can sell units of 10 via Amazon but they would prefer to sell in increments of 250.  Please put them in contact with your local supplier so that they can do larger orders and drive costs down for everyone.
+
+Two ways to order:
+- Amazon (higher price per unit): [Amazon link](https://www.amazon.com/dp/B087N14Q48/ref=cm_sw_em_r_mt_dp_U_TQaVEb9BF6G2H), price per unit is 7.95 for a 10 pack
+- Direct [https://www.brightviewtechnologies.com/contact/contact-us/contact-us-form~form.aspx](https://www.brightviewtechnologies.com/contact/contact-us/contact-us-form~form.aspx) fill out the form and put in the comments what you are looking to purchase.
+  - 50 units at 3.95 per shield ($197.5)
+  - 250 units at 3.75 per shield ($937.5)
+  - large quantities contact them
 
 # High Quantity
 
