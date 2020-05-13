@@ -51,7 +51,7 @@ Use the website link above to order
 
 # Bright View Technologies
 
-Website:[https://www.brightviewtechnologies.com/](https://www.brightviewtechnologies.com/)
+Website:[https://www.brightviewtechnologies.com/](https://www.brightviewtechnologies.com/products/bright-shield/bright-shield/page.aspx?id=1552)
 Bright View Technologies is producing face shields. They are based in Durham, North Carolina.
 
 I am putting this under low quantity because they can sell units of 10 via Amazon but they would prefer to sell in increments of 250.  Please put them in contact with your local supplier so that they can do larger orders and drive costs down for everyone.
@@ -61,7 +61,7 @@ Two ways to order:
 - Direct [https://www.brightviewtechnologies.com/contact/contact-us/contact-us-form~form.aspx](https://www.brightviewtechnologies.com/contact/contact-us/contact-us-form~form.aspx) fill out the form and put in the comments what you are looking to purchase.
   - 50 units at 3.95 per shield ($197.5)
   - 250 units at 3.75 per shield ($937.5)
-  - large quantities contact them
+  - larger quantities contact them
 
 # High Quantity
 
