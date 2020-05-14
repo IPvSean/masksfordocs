@@ -46,7 +46,7 @@ Every dollar helps protect our doctors, nurses, and everyone on the front lines!
 
 So you still have money to purchase PPE but you can't actually source it?  If you do not need donations we are starting to identify North Carolina manufactures that are now online selling PPE.  
 
-<div id="button"><b><a href="docs/buy_ppe.md">Buy PPE</a></b></div>
+<div id="button"><b><a href="docs/buy_ppe.html">Buy PPE</a></b></div>
 
 # Where can I donate PPE?
 
