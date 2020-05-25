@@ -5,7 +5,7 @@ We are trying to curate a list of local manufactures and suppliers that are now 
 ## Table of Contents
 
 * [Low Quantity](#low-quantity)
-   * [KatiesKreations121](#KatiesKreations121)
+   * [KatiesKreations121](#katieskreations121)
    * [Weaver Street Market](#weaver-street-market)
    * [Topo Distillery](#topo-distillery)
    * [Bright View Technologies](#bright-view-technologies)
@@ -15,7 +15,7 @@ We are trying to curate a list of local manufactures and suppliers that are now 
 
 # Low Quantity
 
-# KatiesKreations121
+## KatiesKreations121
 
 Website: [https://www.etsy.com/shop/KatiesKreations121](https://www.etsy.com/listing/810653827/handmade-mask-with-pocket-filtration)
 Based in Chapel Hill, NC
