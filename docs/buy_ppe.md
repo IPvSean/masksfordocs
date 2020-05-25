@@ -5,6 +5,7 @@ We are trying to curate a list of local manufactures and suppliers that are now 
 ## Table of Contents
 
 * [Low Quantity](#low-quantity)
+   * [KatiesKreations121](#KatiesKreations121)
    * [Weaver Street Market](#weaver-street-market)
    * [Topo Distillery](#topo-distillery)
    * [Bright View Technologies](#bright-view-technologies)
@@ -13,6 +14,17 @@ We are trying to curate a list of local manufactures and suppliers that are now 
    * [Sharpeco](#sharpeco)
 
 # Low Quantity
+
+# KatiesKreations121
+
+Website: [https://www.etsy.com/shop/KatiesKreations121](https://www.etsy.com/listing/810653827/handmade-mask-with-pocket-filtration)
+Based in Chapel Hill, NC
+
+They are selling:
+
+- Hand-made cloth masks $7
+
+![KatiesKreations121](../images/KatiesKreations121.jpeg)
 
 ## Weaver Street Market
 
@@ -56,7 +68,7 @@ Bright View Technologies is producing face shields. They are based in Durham, No
 
 ![brightview.jpg](../images/brightview.jpg)
 
-I am putting this under low quantity because they can sell units of 10 via Amazon but they would prefer to sell in increments of 250.  Please put them in contact with your local supplier so that they can do larger orders and drive costs down for everyone.
+I am putting this under low quantity because they can sell units of 10 via Amazon but they would prefer to sell in increments of 250.  Please put them in contact with your local supplier so that they can do larger orders and drive costs down for everyone.  They can do huge orders as well, so they can produce thousands of shields.
 
 Two ways to order:
 - Amazon (higher price per unit): [Amazon link](https://www.amazon.com/dp/B087N14Q48/ref=cm_sw_em_r_mt_dp_U_TQaVEb9BF6G2H), price per unit is 7.95 for a 10 pack
