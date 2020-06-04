@@ -40,4 +40,12 @@ Delivered to UNC hospitals
 
 ![example_durham.jpg](../images/face-shields.jpeg)
 
+# Loupes
+
+The group is using modified designs to extend face shields for use with loupes:
+
+![example_durham.jpg](../images/loupes/attachment.png)]
+
+![loupes.png](../images/loupes/loupes.png)]
+
 [RETURN TO MAIN SITE](../README.md)
