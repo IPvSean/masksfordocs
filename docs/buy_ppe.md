@@ -64,7 +64,7 @@ Use the website link above to order
 
 # Triangle PPE Incorporated
 
-Website:  https://www.triangleppe.com/trianglecovid
+Website:  [https://www.triangleppe.com/trianglecovid](https://www.triangleppe.com/trianglecovid)
 
 Selling:  Locally Manufactured Face Shields, both non-branded, or branded with custom company name & logo.
 
