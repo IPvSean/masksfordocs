@@ -8,6 +8,7 @@ We are trying to curate a list of local manufactures and suppliers that are now 
    * [KatiesKreations121](#katieskreations121)
    * [Weaver Street Market](#weaver-street-market)
    * [Topo Distillery](#topo-distillery)
+   * [Triangle PPE Incorporated](#triangle-ppe-incorporated)
    * [Bright View Technologies](#bright-view-technologies)
 * [High Quantity](#high-quantity)
    * [Gilero](#gilero)
@@ -60,6 +61,40 @@ Selling hand sanitizer in the following increments:
 - bulk (20 gallons or more)
 
 Use the website link above to order
+
+# Triangle PPE Incorporated
+
+Website:  https://www.triangleppe.com/trianglecovid
+
+Selling:  Locally Manufactured Face Shields, both non-branded, or branded with custom company name & logo.
+
+![branded example](../images/Dunkin.jpg)
+![unbranded example](../images/unbranded.jpg)
+
+<table style="width:100%">
+  <tr>
+    <th>Quantity</th>
+    <th>Non-Branded</th>
+    <th>Custom Branded</th>
+  </tr>
+  <tr>
+    <td>10 - pack (price per Shield)</td>
+    <td>$5.00</td>
+    <td>$7.00</td>
+  </tr>
+  <tr>
+    <td>50 – pack (price per Shield)</td>
+    <td>$4.50</td>
+    <td>$5.75</td>
+  </tr>
+  <tr>
+    <td>100 – pack (price per Shield)</td>
+    <td>$3.95</td>
+    <td>$5.10</td>
+  </tr>  
+</table>
+
+Call us for prices for larger quantities.  919-525-1418.
 
 # Bright View Technologies
 
