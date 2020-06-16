@@ -4,6 +4,8 @@
 [https://www.signupgenius.com/go/9040b4aabaf22a1fb6-frame](https://www.signupgenius.com/go/9040b4aabaf22a1fb6-frame)
 
 Here is a picture of the normal plastic 3D printed frame, and the 3D printed extension.  The clear plastic shield is already cut and we just need these two parts.
+
+
 ![example_durham.jpg](../images/loupes/attachment.png)]
 
 
