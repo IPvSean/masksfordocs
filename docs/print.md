@@ -1,6 +1,14 @@
 # Print Face Shields
 
-**UPDATE MAY 8TH 2020** Stop frame production temporarily. We have more frames than we have transparent shields.  We need help with assembly.  If you can volunteer time we need people between 930 M-F at our location in Durham, NC.  You can contact me at [sean.cavanaugh@masksfordocs.com](mailto:sean.cavanaugh@masksfordocs.com) or join us on slack.  We also need money, please donate to the [US-NC-Triangle group here](https://local.masksfordocs.com/us-nc-triangle).
+**UPDATE JUNE 16TH 2020** We only need specific amounts of frames or extensions to be printed.  The 3D files are provided below. Before you print anything please sign up for a slot (increments of 50)
+[https://www.signupgenius.com/go/9040b4aabaf22a1fb6-frame](https://www.signupgenius.com/go/9040b4aabaf22a1fb6-frame)
+
+Here is a picture of the normal plastic 3D printed frame, and the 3D printed extension.  The clear plastic shield is already cut and we just need these two parts.
+![example_durham.jpg](../images/loupes/attachment.png)]
+
+
+<hr>
+You can contact me at [sean.cavanaugh@masksfordocs.com](mailto:sean.cavanaugh@masksfordocs.com) or join us on slack.  We also need money, please donate to the [US-NC-Triangle group here](https://local.masksfordocs.com/us-nc-triangle).
 
 Right now we are concentrating on face shields since we do not have the capability to make N95 masks with 3D printers.
 
@@ -43,8 +51,6 @@ Delivered to UNC hospitals
 # Loupes
 
 The group is using modified designs to extend face shields for use with loupes:
-
-![example_durham.jpg](../images/loupes/attachment.png)]
 
 ![loupes.png](../images/loupes/loupes.png)]
 
