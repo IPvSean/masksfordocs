@@ -1,11 +1,20 @@
 # Print Face Shields
 
-**UPDATE JUNE 16TH 2020** We only need specific amounts of frames or extensions to be printed.  The 3D files are provided below. **Before you print** anything please sign up for a slot (increments of 50)
-[https://www.signupgenius.com/go/9040b4aabaf22a1fb6-frame](https://www.signupgenius.com/go/9040b4aabaf22a1fb6-frame)
+**UPDATE JULY 13TH 2020** WE ARE CEASING PRODUCTION.  PLEASE DO NOT 3D PRINT ANY MORE FRAMES.
 
-Here is a picture of the normal plastic 3D printed frame, and the 3D printed extension.  The clear plastic shield is already cut and we just need these two parts.
+Why is this group stopping production of face shields?
 
-![example_durham.jpg](../images/loupes/attachment.png)]
+- **Demand**: The in-bound requests for shields has gone down significantly.  When someone requests PPE from our group it fills out a google spreadsheet and we have volunteers look at it.  This is a good sign that other avenues of obtaining face shields are working (e.g. via the government or normal purchasing from suppliers).  See more info in the next point->
+
+- **Local Manufactures**: The plan was also originally to "close the gap" on providing PPE (personal protective equipment) because no one was producing PPE locally (North Carolina)  However, there are now local manufactures creating face shields much faster than we can.  I have created a curated list here: https://trianglecovid.com/docs/buy_ppe.html.
+
+- **Volunteer Burnout**: Leadership for this group is assuming that more and more folks are burning out and because we are having harder and harder times getting volunteers to deliver, print or assemble.  It is very time intensive to use 3D printers and manual assembly versus what local manufactures are doing.  With local manufactures coming online we can donate what we have left in inventory and just help distribution donations.
+
+Is this group going away?
+
+No, we are going to move more towards distribution of donations and just helping people request PPE from proper government sources or manufactures.
+
+
 
 ## FRAME
 
