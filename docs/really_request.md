@@ -2,7 +2,6 @@
 
 We are very low on shield inventory.  The goal of this group was to hold the gap while main stream manufactures could create PPE (personal protective equipment) in North Carolina.  Before you request PPE please check out the following->
 
-<div id="menu">
 
 <div id="section">
 <h2>NC Stockpile</h2>
@@ -18,7 +17,6 @@ COVID-19 North Carolina Healthcare Supply.  This is the stock pile of NC PPE:
 If you are able to, please consider purchasing PPE from local NC manufactures:
 
 <div id="button"><b><a href="docs/buy_ppe.html">Buy PPE</a></b></div>
-</div>
 </div>
 
 <br><br><br><br>
