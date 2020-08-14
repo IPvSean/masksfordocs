@@ -27,7 +27,7 @@ Do you have the time and willingness to help out? <br><br>
 
 We are actively distributing shields to frontline workers! <br><br>
 
-<div id="button"><b><a href="https://share.hsforms.com/1ZEAK2ikxSFKqR_XR7J-x5Q4dh7j?mfd_chapter_id=us-nc-triangle">Request PPE</a></b></div>
+<div id="button"><b><a href="docs/really_request.html">Request PPE</a></b></div>
 </div>
 
 <div id="section">
