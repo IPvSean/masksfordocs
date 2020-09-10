@@ -5,7 +5,7 @@ We are trying to curate a list of local manufactures and suppliers that are now 
 ## Table of Contents
 
 * [Low Quantity](#low-quantity)
-   * [BlueHillsCo](#BlueHillsCo)
+   * [BlueHillsCo](#bluehillsco)
    * [Bright View Technologies](#bright-view-technologies)
    * [KatiesKreations121](#katieskreations121)
    * [Topo Distillery](#topo-distillery)
