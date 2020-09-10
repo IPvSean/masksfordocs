@@ -5,16 +5,43 @@ We are trying to curate a list of local manufactures and suppliers that are now 
 ## Table of Contents
 
 * [Low Quantity](#low-quantity)
+   * [BlueHillsCo](#BlueHillsCo)
+   * [Bright View Technologies](#bright-view-technologies)
    * [KatiesKreations121](#katieskreations121)
-   * [Weaver Street Market](#weaver-street-market)
    * [Topo Distillery](#topo-distillery)
    * [Triangle PPE Incorporated](#triangle-ppe-incorporated)
-   * [Bright View Technologies](#bright-view-technologies)
+   * [Weaver Street Market](#weaver-street-market)
 * [High Quantity](#high-quantity)
    * [Gilero](#gilero)
    * [Sharpeco](#sharpeco)
 
 # Low Quantity
+
+## BlueHillsCo
+
+Website: [https://www.etsy.com/shop/BlueHillsCo](https://www.etsy.com/shop/BlueHillsCo)
+
+ - They are producing 3D Printed 1500+  Micron Filter Masks, face shields, ear savers (mask extenders) and door openers.  Filter on etsy using **Health**. They are based in  Chapel Hill, North Carolina.  
+
+![bluehill](../images/bluehill.jpg)
+
+They are also able to do large quantities as well (1000+), but it is more rare to do small quantities so I am listing them here first!
+
+# Bright View Technologies
+
+Website:[https://www.brightviewtechnologies.com/](https://www.brightviewtechnologies.com/products/bright-shield/bright-shield/page.aspx?id=1552)
+Bright View Technologies is producing face shields. They are based in Durham, North Carolina.
+
+![brightview.jpg](../images/brightview.jpg)
+
+I am putting this under low quantity because they can sell units of 10 via Amazon but they would prefer to sell in increments of 250.  Please put them in contact with your local supplier so that they can do larger orders and drive costs down for everyone.  They can do huge orders as well, so they can produce thousands of shields.
+
+Two ways to order:
+- Amazon (higher price per unit): [Amazon link](https://www.amazon.com/dp/B087N14Q48/ref=cm_sw_em_r_mt_dp_U_TQaVEb9BF6G2H), price per unit is 7.95 for a 10 pack
+- Direct [https://www.brightviewtechnologies.com/contact/contact-us/contact-us-form~form.aspx](https://www.brightviewtechnologies.com/contact/contact-us/contact-us-form~form.aspx) fill out the form and put in the comments what you are looking to purchase.
+  - 50 units at 3.95 per shield ($197.5)
+  - 250 units at 3.75 per shield ($937.5)
+  - larger quantities contact them
 
 ## KatiesKreations121
 
@@ -26,27 +53,6 @@ They are selling:
 - Hand-made cloth masks $7
 
 ![KatiesKreations121](../images/KatiesKreations121.jpeg)
-
-## Weaver Street Market
-
-[Weaver Street Market](https://www.weaverstreetmarket.coop/) has locations at:
-
-- [Southern Village](https://goo.gl/maps/NeMVTn9aqiYBMj6J6), Chapel Hill (Orange County)
-- [Downtown Carrboro](https://goo.gl/maps/55rcySwiaSEC3DVw6) (Orange County)
-- [Downtown Hillsborough](https://goo.gl/maps/MzYf3RMJ9Nc9bQ6F6) (Orange County)
-- [Downtown Raleigh](https://g.page/WeaverStreetMarketRaleigh) (Wake County)
-
-They are selling:
-
-- hand sanitizer (80% alcohol)
-- disposable masks (3 per package at $4.29)
-- reusable cloth masks
-
-Pictures:
-
-![masks for sale](../images/masksforsale.jpg)
-![disposable masks](../images/disposable_mask.jpg)
-![sanitizer](../images/sanitizer.jpg)
 
 # Topo Distillery
 
@@ -96,21 +102,26 @@ Selling:  Locally Manufactured Face Shields, both non-branded, or branded with c
 
 Call us for prices for larger quantities.  919-525-1418.
 
-# Bright View Technologies
+## Weaver Street Market
 
-Website:[https://www.brightviewtechnologies.com/](https://www.brightviewtechnologies.com/products/bright-shield/bright-shield/page.aspx?id=1552)
-Bright View Technologies is producing face shields. They are based in Durham, North Carolina.
+[Weaver Street Market](https://www.weaverstreetmarket.coop/) has locations at:
 
-![brightview.jpg](../images/brightview.jpg)
+- [Southern Village](https://goo.gl/maps/NeMVTn9aqiYBMj6J6), Chapel Hill (Orange County)
+- [Downtown Carrboro](https://goo.gl/maps/55rcySwiaSEC3DVw6) (Orange County)
+- [Downtown Hillsborough](https://goo.gl/maps/MzYf3RMJ9Nc9bQ6F6) (Orange County)
+- [Downtown Raleigh](https://g.page/WeaverStreetMarketRaleigh) (Wake County)
 
-I am putting this under low quantity because they can sell units of 10 via Amazon but they would prefer to sell in increments of 250.  Please put them in contact with your local supplier so that they can do larger orders and drive costs down for everyone.  They can do huge orders as well, so they can produce thousands of shields.
+They are selling:
 
-Two ways to order:
-- Amazon (higher price per unit): [Amazon link](https://www.amazon.com/dp/B087N14Q48/ref=cm_sw_em_r_mt_dp_U_TQaVEb9BF6G2H), price per unit is 7.95 for a 10 pack
-- Direct [https://www.brightviewtechnologies.com/contact/contact-us/contact-us-form~form.aspx](https://www.brightviewtechnologies.com/contact/contact-us/contact-us-form~form.aspx) fill out the form and put in the comments what you are looking to purchase.
-  - 50 units at 3.95 per shield ($197.5)
-  - 250 units at 3.75 per shield ($937.5)
-  - larger quantities contact them
+- hand sanitizer (80% alcohol)
+- disposable masks (3 per package at $4.29)
+- reusable cloth masks
+
+Pictures:
+
+![masks for sale](../images/masksforsale.jpg)
+![disposable masks](../images/disposable_mask.jpg)
+![sanitizer](../images/sanitizer.jpg)
 
 # High Quantity
 
