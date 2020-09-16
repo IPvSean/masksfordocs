@@ -12,7 +12,7 @@ COVID-19 North Carolina Healthcare Supply.  This is the stock pile of NC PPE:
 
 If you are able to, please consider purchasing PPE from local NC manufactures:
 
-<div id="button"><b><a href="docs/buy_ppe.html">Buy PPE</a></b></div>
+<div id="button"><b><a href="buy_ppe.html">Buy PPE</a></b></div>
 
 <br><br><br><br>
 
